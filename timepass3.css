@@ -10,6 +10,7 @@ header{
     background-color: cornflowerblue;
     height: 100px;
     width: 1405px;
+    display: flex;
 }
 .logo{
     background-color: rgb(233, 29, 178);
